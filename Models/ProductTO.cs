@@ -1,0 +1,1 @@
+public record ProductTO(int id, string Name, double Price);
